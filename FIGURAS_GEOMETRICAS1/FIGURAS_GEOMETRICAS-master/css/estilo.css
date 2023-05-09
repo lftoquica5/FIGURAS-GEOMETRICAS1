@@ -1,0 +1,76 @@
+﻿body {
+    font-family: 'Rajdhani', sans-serif;
+    background-color: #f6c5cb;
+
+}.menu {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  width:98.5%;
+  margin-top: -15px;;
+}
+
+    .menu a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 20px;
+    }
+
+.menu a:hover {
+    background-color: #ddd;
+    color: black;
+
+}
+
+.menu a.navegacion {
+    background-color: deeppink;
+    color: white;
+}
+
+
+.figura {
+    background-image: url(../img/fgeo.png);
+    text-align: center;
+    width: 1330px;
+    margin-left: -40px;
+
+ }
+
+h1 {
+    font-size: 35px;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+th {
+    color: purple;
+    font-size: 20px;
+    text-align: center;
+    padding: 14px 10px 10px;
+    border: 1px solid black;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+table {
+    padding: 5px 5px;
+    width:100%;
+    margin-bottom: 40px;
+    
+}
+td {
+    text-align: center;
+    border: 1px solid black;
+    font-size: 18px;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.footer {
+    width: 100%;
+    background-color: #333;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 1px 5px;
+}
