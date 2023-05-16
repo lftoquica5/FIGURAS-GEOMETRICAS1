@@ -19,7 +19,7 @@ body {
     font-size: 20px;
 }
 
-.menu a: hover {
+.menu a:hover {
     background-color:#ddd;
     color: black;
 }
